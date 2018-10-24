@@ -12,7 +12,7 @@
       "content": "Playing the requested song."
     }],
     "reprompt": [{
-      "outputSpeech": {
+      "outputSpeech": [{
         "type": "PlainText",
         "text": null
       }]
