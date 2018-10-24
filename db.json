@@ -1,22 +1,22 @@
 {
   "version": "1.0",
   "sessionAttributes": {},
-  "response": [{
+  "response": {
     "outputSpeech": [{
       "type": "PlainText",
       "text": "Playing the requested song."
-    }],
+    },
     "card": [{
       "type": "Simple",
       "title": "sri chaitanya",
       "content": "Playing the requested song."
     }],
-    "reprompt": [{
+    "reprompt": {
       "outputSpeech": [{
         "type": "PlainText",
         "text": null
       }]
-    }],
+    },
     "shouldEndSession": false
-  }]
+  }
 }
