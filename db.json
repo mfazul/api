@@ -5,7 +5,7 @@
     "outputSpeech": [{
       "type": "PlainText",
       "text": "Playing the requested song."
-    },
+    }],
     "card": [{
       "type": "Simple",
       "title": "sri chaitanya",
