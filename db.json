@@ -1,24 +1,23 @@
-[ 
-  {
+  {[
   "version": "1.0",
   "sessionAttributes": {},
-  "response": {
-    "outputSpeech": {
+  "response": {[
+    "outputSpeech": {[
       "type": "PlainText",
       "text": "Playing the requested song."
-    },
-    "card": {
+    ]},
+    "card": {[
       "type": "Simple",
       "title": "sri chaitanya",
       "content": "Playing the requested song."
-    },
-    "reprompt": {
-      "outputSpeech": {
+    ]},
+    "reprompt": {[
+      "outputSpeech": {[
         "type": "PlainText",
         "text": null
-      }
-    },
+      ]}
+    ]},
     "shouldEndSession": false
-  }
-}
-]
+  ]}
+]}
+
